@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"weapon",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Food",
+  "eventList":[],
   "managed":true,
-  "name":"weapon",
+  "name":"Food",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"FoodObjects",
+    "path":"folders/Objects/FoodObjects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"attackdirectionSprite",
-    "path":"sprites/attackdirectionSprite/attackdirectionSprite.yy",
+    "name":"foodSprite",
+    "path":"sprites/foodSprite/foodSprite.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

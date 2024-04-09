@@ -1,18 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Player",
+  "%Name":"RoomTransitionTrigger_Down",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Player",
+  "name":"RoomTransitionTrigger_Down",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"TransistionTriggers",
+    "path":"folders/Objects/TransistionTriggers.yy",
   },
   "parentObjectId":null,
   "persistent":true,
@@ -33,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"JeffSprite",
-    "path":"sprites/JeffSprite/JeffSprite.yy",
+    "name":"Sprite18",
+    "path":"sprites/Sprite18/Sprite18.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

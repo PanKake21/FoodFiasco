@@ -15,6 +15,17 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Cafeteria","folderPath":"folders/Objects/Cafeteria.yy","name":"Cafeteria","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"FoodObjects","folderPath":"folders/Objects/FoodObjects.yy","name":"FoodObjects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"MainBuildingObjects","folderPath":"folders/Objects/MainBuildingObjects.yy","name":"MainBuildingObjects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Students","folderPath":"folders/Objects/Students.yy","name":"Students","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"PlayerCollision","folderPath":"folders/Objects/Students/PlayerCollision.yy","name":"PlayerCollision","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"TransistionTriggers","folderPath":"folders/Objects/TransistionTriggers.yy","name":"TransistionTriggers","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"hall_transistions","folderPath":"folders/Objects/TransistionTriggers/hall_transistions.yy","name":"hall_transistions","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Hall1","folderPath":"folders/Objects/TransistionTriggers/hall_transistions/Hall1.yy","name":"Hall1","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Hall2","folderPath":"folders/Objects/TransistionTriggers/hall_transistions/Hall2.yy","name":"Hall2","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Hall3","folderPath":"folders/Objects/TransistionTriggers/hall_transistions/Hall3.yy","name":"Hall3","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Hall4","folderPath":"folders/Objects/TransistionTriggers/hall_transistions/Hall4.yy","name":"Hall4","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -30,18 +41,10 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2023.11.1.129",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"NewGame",
   "resources":[
-<<<<<<< Updated upstream
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
-    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
-    {"id":{"name":"weapon","path":"objects/weapon/weapon.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-=======
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"Classroom_Indicator","path":"objects/Classroom_Indicator/Classroom_Indicator.yy",},},
     {"id":{"name":"ClassroomExit","path":"objects/ClassroomExit/ClassroomExit.yy",},},
@@ -115,14 +118,10 @@
     {"id":{"name":"Doorway_TileSet","path":"tilesets/Doorway_TileSet/Doorway_TileSet.yy",},},
     {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},},
     {"id":{"name":"Wall_TileSet","path":"tilesets/Wall_TileSet/Wall_TileSet.yy",},},
->>>>>>> Stashed changes
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-<<<<<<< Updated upstream
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-=======
     {"roomId":{"name":"Hallway2","path":"rooms/Hallway2/Hallway2.yy",},},
     {"roomId":{"name":"Cafeteria","path":"rooms/Cafeteria/Cafeteria.yy",},},
     {"roomId":{"name":"Hallway4","path":"rooms/Hallway4/Hallway4.yy",},},
@@ -133,7 +132,6 @@
     {"roomId":{"name":"Classroom5","path":"rooms/Classroom5/Classroom5.yy",},},
     {"roomId":{"name":"Hallway3","path":"rooms/Hallway3/Hallway3.yy",},},
     {"roomId":{"name":"Principal","path":"rooms/Principal/Principal.yy",},},
->>>>>>> Stashed changes
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"weapon",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"spawn_marker",
+  "eventList":[],
   "managed":true,
-  "name":"weapon",
+  "name":"spawn_marker",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"attackdirectionSprite",
-    "path":"sprites/attackdirectionSprite/attackdirectionSprite.yy",
+    "name":"Sprite19",
+    "path":"sprites/Sprite19/Sprite19.yy",
   },
   "spriteMaskId":null,
   "visible":false,

@@ -1,27 +1,12 @@
 {
   "FolderOrderSettings":[
-    {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
-    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
-    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
-    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
-    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
-    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
-    {"name":"Paths","order":4,"path":"folders/Paths.yy",},
-    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
-    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
-    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
-    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
-    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
-    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
-    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"hall_transistions","order":9,"path":"folders/Objects/TransistionTriggers/hall_transistions.yy",},
+    {"name":"Hall1","order":1,"path":"folders/Objects/TransistionTriggers/hall_transistions/Hall1.yy",},
+    {"name":"Hall2","order":2,"path":"folders/Objects/TransistionTriggers/hall_transistions/Hall2.yy",},
+    {"name":"Hall3","order":3,"path":"folders/Objects/TransistionTriggers/hall_transistions/Hall3.yy",},
+    {"name":"Hall4","order":4,"path":"folders/Objects/TransistionTriggers/hall_transistions/Hall4.yy",},
   ],
   "ResourceOrderSettings":[
-<<<<<<< Updated upstream
-    {"name":"Sprite2","order":16,"path":"sprites/Sprite2/Sprite2.yy",},
-    {"name":"Sprite13","order":1,"path":"sprites/Sprite13/Sprite13.yy",},
-    {"name":"weapon","order":1,"path":"objects/weapon/weapon.yy",},
-=======
     {"name":"Hallway_transition_up","order":3,"path":"objects/Hallway_transition_up/Hallway_transition_up.yy",},
     {"name":"RoomTransitionTrigger_Down","order":2,"path":"objects/RoomTransitionTrigger_Down/RoomTransitionTrigger_Down.yy",},
     {"name":"RoomTransitionTrigger_Up","order":5,"path":"objects/RoomTransitionTrigger_Up/RoomTransitionTrigger_Up.yy",},
@@ -62,6 +47,5 @@
     {"name":"WoodenFloor1","order":19,"path":"sprites/WoodenFloor1/WoodenFloor1.yy",},
     {"name":"Doorway_TileSet","order":1,"path":"tilesets/Doorway_TileSet/Doorway_TileSet.yy",},
     {"name":"TileSet4","order":30,"path":"tilesets/TileSet4/TileSet4.yy",},
->>>>>>> Stashed changes
   ],
 }
